@@ -1,0 +1,41 @@
+#root {
+  max-width: 1500px;
+}
+
+@layer reset, base, tokens, recipes, utilities;
+
+@font-face {
+  font-family: 'Shiny';
+  src: url('../src/fonts/Shiny\ Marker\ Regular.otf') format('opentype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cheesecake';
+  src: url('../src/fonts/Cheesecake.ttf') format('truetype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Amoresa';
+  src: url('../src/fonts/Amoresa.otf') format('opentype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gellatio';
+  src: url('../src/fonts/Gellatio.ttf') format('truetype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Maglisto';
+  src: url('../src/fonts/Maglisto.otf') format('opentype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Blona';
+  src: url('../src/fonts/BLONA.otf') format('opentype');
+  font-display: swap;
+}
